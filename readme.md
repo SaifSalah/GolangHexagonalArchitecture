@@ -1,3 +1,4 @@
-##Hexagonal Architecture
+# Hexagonal Architecture
 
-#learning how to implement hexagonal architecture in golang
+* this repo is for learning purposes Golang and specific for how to implement ```Hexagonal Architecture``` 
+
